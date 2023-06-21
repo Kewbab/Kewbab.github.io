@@ -9,5 +9,3 @@
 # klicka på den främmande länken [här](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ![meme](https://i.imgflip.com/7h1w9i.jpg) ![](https://pbs.twimg.com/media/B6hb1r9CMAEyJ0N?format=jpg&name=small)
-
-![in](https://raw.githubusercontent.com/Kewbab/Kewbab.github.io/main/IMG-1457.PNG)
