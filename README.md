@@ -4,3 +4,9 @@
 #### h4 heading
 ##### h5 heading
 ###### h6 heading
+
+**sned text*
+
+[RR](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+![meme](https://imgflip.com/i/7h1w9i)
