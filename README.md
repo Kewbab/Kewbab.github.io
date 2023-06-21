@@ -6,7 +6,6 @@
 ###### h6 heading
 
 **sned text*
-
-[RR](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+# klicka på den främmande länken [här](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ![meme](https://i.imgflip.com/7h1w9i.jpg)
